@@ -1,20 +1,20 @@
 # [Your Name]
 ---
 
-**Year:** [Your year]
+**Year:** Freshman
 
-**Major:** [Your major]
+**Major:** CS & Stats
 
 ---
 
 ### One fun fact about yourself (non-tech)
 
-[Your fun fact]
+Have been skydiving!
 
 ---
 
 ### An idea for a future tech workshop!
 
-[Your idea]
+How to LeetCode :(
 
 ---
